@@ -24,6 +24,7 @@ I am an Informatics student based in Yogyakarta who heavily relies on vibes to w
 * Trying to figure out why my CSS broke the entire layout.
 * Adding unnecessary animations to every single button on a webpage.
 * Convincing people that HTML is a programming language.
+* Pokoknya kicau kicau mania.
 
 ## ⚡ GitHub Stats
 
