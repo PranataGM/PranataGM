@@ -1,44 +1,29 @@
 # Hi there, I'm Muhammad Aria Sastra 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=500&color=7E3FED&background=0D1117&center=true&vCenter=true&width=600&lines=Informatics+Student;Machine+Learning+Enthusiast;Full-Stack+Developer;Vibecoder;Nocturnal+Builder" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=4000&pause=500&color=7E3FED&background=0D1117&center=true&vCenter=true&width=600&lines=Vibecoder;HTML+Enthusiast;CSS+Magician;JavaScript+Survivor;Centering+Divs" alt="Typing animation"/>
 </p>
 
 ## 👨‍💻 About Me
 
-I am an Informatics student based in Yogyakarta, Indonesia, passionate about crafting intelligent systems and seamless web applications. As a **Vibecoder**, I embrace modern development workflows, relying on intuition, flow state, and AI-assisted tooling to build efficient and scalable solutions.
+I am an Informatics student based in Yogyakarta who heavily relies on vibes to write code. As a certified **Vibecoder**, I let intuition, flow state, and AI do the heavy lifting while I focus on making the frontend look pretty.
 
-* 🎓 Currently exploring advanced **Machine Learning** and **Computer Vision** algorithms.
-* 💻 Developing full-stack web applications and API architectures.
-* 🔬 Researching predictive models, including multi-output hybrid ensemble techniques.
-* 🌙 Most productive during nocturnal coding sessions.
+* 🎓 Currently mastering the dark art of centering a `<div>`.
+* 💻 My workflow consists of 50% coding and 50% refreshing the browser to see what changed.
+* 🌙 Nocturnal builder, because writing JavaScript at 3 AM just feels right.
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ My Massive Tech Stack
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-**Data Science & Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Database & Tools**
-
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vibes](https://img.shields.io/badge/Pure_Vibes-FF69B4?style=for-the-badge&logo=smashingmagazine&logoColor=white)
 
 ## 🚀 What I'm Working On
 
-* Building complete web administrative systems and interfaces using **Laravel** and **SQLite**.
-* Developing object detection and image segmentation pipelines using **YOLOv8** and **OpenCV**.
-* Structuring machine learning interfaces using **Flask** for data visualization.
+* Trying to figure out why my CSS broke the entire layout.
+* Adding unnecessary animations to every single button on a webpage.
+* Convincing people that HTML is a programming language.
 
 ## ⚡ GitHub Stats
 
